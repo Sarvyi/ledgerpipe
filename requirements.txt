@@ -1,0 +1,11 @@
+pandas
+pdfplumber
+openpyxl
+xlrd
+camelot-py[cv] ; platform_system != 'Windows'
+tabula-py
+PyPDF2
+pytesseract
+pdf2image
+pytesseract
+pdf2image
